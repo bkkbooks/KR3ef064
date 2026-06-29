@@ -1,0 +1,1340 @@
+canonical_identifier: bkk:krp/KR3ef064/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef064/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒論類方
+  identifiers:
+    krp: KR3ef064
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef064.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef064_001-jc.yaml, hash: 'sha256:cb230f508e27cd97fa7286b2f85767dcfe2c9f4c04f51b1b75c92da48c637d3e'}
+  - {seq: 2, filename: KR3ef064_002-jc.yaml, hash: 'sha256:a8361f2044853fd3854ea2a1fad5f21c1785cabf4cd39a7976dd7c5cd07d82db'}
+  - {seq: 3, filename: KR3ef064_003-jc.yaml, hash: 'sha256:8918f04b99979f16b5d94125f9f1ac84fa3a8346d574d1270fe3bf025d92a0fb'}
+  - {seq: 4, filename: KR3ef064_004-jc.yaml, hash: 'sha256:7443881e95c78478b623983bd75d8678247aaa41787227b5da7ac76294b60c8f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef064_001-jc.markers.yaml, hash: 'sha256:2e260eedf45de4a22d81390e6477f317bf486867319b5766157c7a252f5b8960'}
+  - {seq: 2, role: markers, filename: assets/KR3ef064_002-jc.markers.yaml, hash: 'sha256:40d1a31aa474f7ffdecaa3a71e72f844a7e0730164b8b6b341b34be7f9e66144'}
+  - {seq: 3, role: markers, filename: assets/KR3ef064_003-jc.markers.yaml, hash: 'sha256:5bfcdf45555045f4348386d76545a3f210f1ae2cc2ca4e437550d5d4853d89fe'}
+  - {seq: 4, role: markers, filename: assets/KR3ef064_004-jc.markers.yaml, hash: 'sha256:2eaf21ece487d4ba5b16eda48c0b3cc559bb352280ec01f74d5d5e93689aa441'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 11735
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 4998
+  label: 桂枝湯類一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d2
+    span:
+    - body
+    - 7
+    - 1860
+  label: 桂枝湯一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d3
+    span:
+    - body
+    - 1860
+    - 2027
+  label: 桂枝加附子湯二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d4
+    span:
+    - body
+    - 2027
+    - 2167
+  label: 桂枝加桂湯三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d5
+    span:
+    - body
+    - 2167
+    - 2197
+  label: 桂枝去芍藥湯四
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d6
+    span:
+    - body
+    - 2197
+    - 2299
+  label: 桂枝去芍藥加附子湯五
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d7
+    span:
+    - body
+    - 2299
+    - 2422
+  label: 桂枝加厚朴杏仁湯六
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d8
+    span:
+    - body
+    - 2422
+    - 2613
+  label: 小建中湯七
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d9
+    span:
+    - body
+    - 2613
+    - 2739
+  label: 桂枝加芍藥生薑人參新加湯八
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d10
+    span:
+    - body
+    - 2739
+    - 2863
+  label: 桂枝甘草湯九
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d11
+    span:
+    - body
+    - 2863
+    - 3026
+  label: 茯苓桂枝甘草大棗湯十
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d12
+    span:
+    - body
+    - 3026
+    - 3420
+  label: 桂枝麻黃各半湯十一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d13
+    span:
+    - body
+    - 3420
+    - 3629
+  label: 桂枝二麻黃一湯十二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d14
+    span:
+    - body
+    - 3629
+    - 3914
+  label: 桂枝二越婢一湯十三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d15
+    span:
+    - body
+    - 3914
+    - 4123
+  label: 桂枝去桂加茯苓白朮湯十四
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d16
+    span:
+    - body
+    - 4123
+    - 4332
+  label: 桂枝去芍藥加蜀漆龍骨牡蠣救逆湯十五
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d17
+    span:
+    - body
+    - 4332
+    - 4531
+  label: 桂枝甘草龍骨牡蠣湯十六
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d18
+    span:
+    - body
+    - 4531
+    - 4660
+  label: 桂枝加葛根湯十七
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d19
+    span:
+    - body
+    - 4660
+    - 4696
+  label: 桂枝加芍藥湯十八
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d2d20
+    span:
+    - body
+    - 4696
+    - 4998
+  label: 桂枝加大黃湯十九
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2d3
+    span:
+    - body
+    - 4998
+    - 7358
+  label: 麻黃湯類二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d3d2
+    span:
+    - body
+    - 5003
+    - 5698
+  label: 麻黃湯一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d3d3
+    span:
+    - body
+    - 5698
+    - 5924
+  label: 麻黃杏仁甘草石膏湯二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d3d4
+    span:
+    - body
+    - 5924
+    - 6445
+  label: 大青龍湯三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d3d5
+    span:
+    - body
+    - 6445
+    - 6952
+  label: 小青龍湯四
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d3d6
+    span:
+    - body
+    - 6952
+    - 7208
+  label: 麻黃附子細辛湯五
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d3d7
+    span:
+    - body
+    - 7208
+    - 7358
+  label: 麻黃附子甘草湯六
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2d4
+    span:
+    - body
+    - 7358
+    - 7966
+  label: 葛根湯類三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d4d2
+    span:
+    - body
+    - 7363
+    - 7621
+  label: 葛根湯一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d4d3
+    span:
+    - body
+    - 7621
+    - 7799
+  label: 葛根黃芩黃連湯二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d4d4
+    span:
+    - body
+    - 7799
+    - 7966
+  label: 葛根加半夏湯三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2d5
+    span:
+    - body
+    - 7966
+    - 11735
+  label: 柴胡湯類四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d5d2
+    span:
+    - body
+    - 7971
+    - 10573
+  label: 小柴胡湯一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d5d3
+    span:
+    - body
+    - 10573
+    - 10877
+  label: 大柴胡湯二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d5d4
+    span:
+    - body
+    - 10877
+    - 11076
+  label: 柴胡桂枝湯三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d5d5
+    span:
+    - body
+    - 11076
+    - 11278
+  label: 柴胡加龍骨牡蠣湯四
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d5d6
+    span:
+    - body
+    - 11278
+    - 11465
+  label: 柴胡桂枝幹薑湯五
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef064_jc_001-d2.d5d7
+    span:
+    - body
+    - 11465
+    - 11735
+  label: 柴胡加芒硝湯六
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 7133
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 1495
+  label: 梔子湯類五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d2d2
+    span:
+    - body
+    - 7
+    - 667
+  label: 梔子豉湯一
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d2d3
+    span:
+    - body
+    - 667
+    - 719
+  label: 梔子甘草豉湯二
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d2d4
+    span:
+    - body
+    - 719
+    - 900
+  label: 梔子生薑豉湯三
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d2d5
+    span:
+    - body
+    - 900
+    - 997
+  label: 梔子乾薑湯四
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d2d6
+    span:
+    - body
+    - 997
+    - 1076
+  label: 梔子厚朴枳實湯五
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d2d7
+    span:
+    - body
+    - 1076
+    - 1139
+  label: 梔子檗皮湯六
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d2d8
+    span:
+    - body
+    - 1139
+    - 1495
+  label: 枳實梔子豉湯七
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3d3
+    span:
+    - body
+    - 1495
+    - 7133
+  label: 承氣湯類六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d2
+    span:
+    - body
+    - 1500
+    - 3321
+  label: 大承氣湯一
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d3
+    span:
+    - body
+    - 3321
+    - 4036
+  label: 小承氣湯二
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d4
+    span:
+    - body
+    - 4036
+    - 4738
+  label: 調胃承氣湯三
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d5
+    span:
+    - body
+    - 4738
+    - 4959
+  label: 桃核承氣湯四
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d6
+    span:
+    - body
+    - 4959
+    - 5477
+  label: 抵當湯五
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d7
+    span:
+    - body
+    - 5477
+    - 5611
+  label: 抵當丸六
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d8
+    span:
+    - body
+    - 5611
+    - 5792
+  label: 十棗湯七
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d9
+    span:
+    - body
+    - 5792
+    - 6355
+  label: 大陷胸湯八
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d10
+    span:
+    - body
+    - 6355
+    - 6577
+  label: 大陷胸丸九
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d11
+    span:
+    - body
+    - 6577
+    - 6750
+  label: 小陷胸湯十
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d12
+    span:
+    - body
+    - 6750
+    - 6984
+  label: 白散十一
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef064_jc_002-d3.d3d13
+    span:
+    - body
+    - 6984
+    - 7133
+  label: 麻仁丸十二
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 8480
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1815
+  label: 瀉心湯類七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d2
+    span:
+    - body
+    - 7
+    - 226
+  label: 生薑瀉心湯一
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d3
+    span:
+    - body
+    - 226
+    - 414
+  label: 甘草瀉心湯二
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d4
+    span:
+    - body
+    - 414
+    - 613
+  label: 半夏瀉心湯三
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d5
+    span:
+    - body
+    - 613
+    - 802
+  label: 大黃黃連瀉心湯四
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d6
+    span:
+    - body
+    - 802
+    - 1019
+  label: 附子瀉心湯五
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d7
+    span:
+    - body
+    - 1019
+    - 1190
+  label: 黃連湯六
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d8
+    span:
+    - body
+    - 1190
+    - 1234
+  label: 黃芩湯七
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d9
+    span:
+    - body
+    - 1234
+    - 1381
+  label: 黃芩加半夏生薑湯八
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d10
+    span:
+    - body
+    - 1381
+    - 1507
+  label: 乾薑黃連黃芩人參湯九
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d11
+    span:
+    - body
+    - 1507
+    - 1706
+  label: 旋覆代赭石湯十
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d2d12
+    span:
+    - body
+    - 1706
+    - 1815
+  label: 厚朴生薑甘草半夏人參湯十一
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4d3
+    span:
+    - body
+    - 1815
+    - 2746
+  label: 白虎湯類八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d3d2
+    span:
+    - body
+    - 1820
+    - 2151
+  label: 白虎湯一
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d3d3
+    span:
+    - body
+    - 2151
+    - 2540
+  label: 白虎加人參湯二
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d3d4
+    span:
+    - body
+    - 2540
+    - 2746
+  label: 竹葉石膏湯三
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4d4
+    span:
+    - body
+    - 2746
+    - 3841
+  label: 五苓散類九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d4d2
+    span:
+    - body
+    - 2751
+    - 3219
+  label: 五苓散一
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d4d3
+    span:
+    - body
+    - 3219
+    - 3409
+  label: 豬苓湯二
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d4d4
+    span:
+    - body
+    - 3409
+    - 3526
+  label: 文蛤散三
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d4d5
+    span:
+    - body
+    - 3526
+    - 3841
+  label: 茯苓甘草湯四
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4d5
+    span:
+    - body
+    - 3841
+    - 6350
+  label: 四逆湯類十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d2
+    span:
+    - body
+    - 3846
+    - 4802
+  label: 四逆湯一
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d3
+    span:
+    - body
+    - 4802
+    - 4885
+  label: 四逆加人參湯二
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d4
+    span:
+    - body
+    - 4885
+    - 5145
+  label: 通脈四逆湯三
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d5
+    span:
+    - body
+    - 5145
+    - 5229
+  label: 通脈四逆加豬膽汁湯四
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d6
+    span:
+    - body
+    - 5229
+    - 5367
+  label: 乾薑附子湯五
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d7
+    span:
+    - body
+    - 5367
+    - 5416
+  label: 白通湯六
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d8
+    span:
+    - body
+    - 5416
+    - 5667
+  label: 白通加豬膽汁湯七
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d9
+    span:
+    - body
+    - 5667
+    - 5781
+  label: 茯苓四逆湯八
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d10
+    span:
+    - body
+    - 5781
+    - 5996
+  label: 四逆散九
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d11
+    span:
+    - body
+    - 5996
+    - 6048
+  label: 當歸四逆湯十
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d5d12
+    span:
+    - body
+    - 6048
+    - 6350
+  label: 當歸四逆加吳茱萸生薑湯十一
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4d6
+    span:
+    - body
+    - 6350
+    - 8480
+  label: 理中湯類十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d6d4
+    span:
+    - body
+    - 6375
+    - 6893
+  label: 理中丸一
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d6d5
+    span:
+    - body
+    - 6893
+    - 7278
+  label: 真武湯二
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d6d6
+    span:
+    - body
+    - 7278
+    - 7489
+  label: 附子湯三
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d6d7
+    span:
+    - body
+    - 7489
+    - 7686
+  label: 甘草附子湯四
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d6d8
+    span:
+    - body
+    - 7686
+    - 7853
+  label: 桂枝附子湯五
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d6d9
+    span:
+    - body
+    - 7853
+    - 8121
+  label: 桂枝附子去桂加白朮湯六
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d6d10
+    span:
+    - body
+    - 8121
+    - 8236
+  label: 茯苓桂枝白朮甘草湯七
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d6d11
+    span:
+    - body
+    - 8236
+    - 8321
+  label: 芍藥甘草附子湯八
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef064_jc_003-d4.d6d12
+    span:
+    - body
+    - 8321
+    - 8480
+  label: 桂枝人參湯九
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6710
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 3394
+  label: 雜法方類十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d2
+    span:
+    - body
+    - 8
+    - 172
+  label: 赤石脂禹餘糧湯一
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d3
+    span:
+    - body
+    - 172
+    - 365
+  label: 炙甘草湯二
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d4
+    span:
+    - body
+    - 365
+    - 400
+  label: 甘草乾薑湯三
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d5
+    span:
+    - body
+    - 400
+    - 961
+  label: 芍藥甘草湯四
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d6
+    span:
+    - body
+    - 961
+    - 1144
+  label: 茵陳蒿湯五
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d7
+    span:
+    - body
+    - 1144
+    - 1304
+  label: 麻黃連軺赤小豆湯六
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d8
+    span:
+    - body
+    - 1304
+    - 1505
+  label: 麻黃升麻湯七
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d9
+    span:
+    - body
+    - 1505
+    - 1718
+  label: 瓜蒂散八
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d10
+    span:
+    - body
+    - 1718
+    - 1896
+  label: 吳茱萸湯九
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d11
+    span:
+    - body
+    - 1896
+    - 2030
+  label: 黃連阿膠湯十
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d12
+    span:
+    - body
+    - 2030
+    - 2174
+  label: 桃花湯十一
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d13
+    span:
+    - body
+    - 2174
+    - 2309
+  label: 半夏散及湯十二
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d14
+    span:
+    - body
+    - 2309
+    - 2388
+  label: 豬膚湯十三
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d15
+    span:
+    - body
+    - 2388
+    - 2418
+  label: 甘草湯十四
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d16
+    span:
+    - body
+    - 2418
+    - 2498
+  label: 桔梗湯十五
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d17
+    span:
+    - body
+    - 2498
+    - 2650
+  label: 苦酒湯十六
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d18
+    span:
+    - body
+    - 2650
+    - 2910
+  label: 烏梅丸十七
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d19
+    span:
+    - body
+    - 2910
+    - 2997
+  label: 白頭翁湯十八
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d20
+    span:
+    - body
+    - 2997
+    - 3098
+  label: 牡蠣澤瀉散十九
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d21
+    span:
+    - body
+    - 3098
+    - 3170
+  label: 蜜煎導方二十
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d22
+    span:
+    - body
+    - 3170
+    - 3275
+  label: 豬膽汁方二十一
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d2d23
+    span:
+    - body
+    - 3275
+    - 3394
+  label: 燒𥚛散二十二
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5d3
+    span:
+    - body
+    - 3394
+    - 6710
+  label: 六經脈證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef064_jc_004-d5.d3d70
+    span:
+    - body
+    - 4184
+    - 6710
+  label: 別症變症附刺法
+  type: section
+  level: 3
+hash: sha256:bc3186cc74e2ccb6ed098ba77d6350f76fe3810cec03b5ab00a44436626a41a5
